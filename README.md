@@ -77,7 +77,7 @@ Residual network using skip connections for stable gradient flow.
 **Performance**
 - Frozen Validation Accuracy: **90.75%**
 - Fine-Tuned Validation Accuracy: **94.43%**
-- Test Accuracy: (Add if available)
+- Test Accuracy: **95.64%**
 
 ResNet18 showed stable convergence and strong validation performance after fine-tuning.
 
