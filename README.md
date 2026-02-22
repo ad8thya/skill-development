@@ -113,11 +113,15 @@ The confusion matrix of the best-performing model (EfficientNetB0) is included i
 ---
 
 ## Repository Structure
-├── mobilenet.ipynb
-├── efficientnet.ipynb
-├── resnet.ipynb
-├── final_paper.pdf
-└── README.md
+```
+skill-development/
+│
+├── EfficientNetB0.ipynb
+├── MobileNetV2.ipynb
+├── ResNet18.ipynb
+├── README.md
+└── final_report.pdf
+```
 
 
 ---
